@@ -1,0 +1,21 @@
+{
+  "name": "cipherdevelopment/redirect-unattached-images",
+  "description": "Redirect attachment pages for all unattached images to the current site's home page.",
+  "type": "wordpress-plugin",
+  "homepage": "https://cipherdevelopment.com",
+  "authors": [
+      {
+          "name": "Robert Neu",
+          "email": "rob@cipherdevelopment.com",
+          "homepage": "https://cipherdevelopment.com"
+      },
+	  {
+          "name": "Ozzy Rodriguez",
+          "email": "ozzy@cipherdevelopment.com",
+          "homepage": "https://cipherdevelopment.com"
+      }
+  ],
+  "require": {
+      "composer/installers": "~1.0"
+  }
+}
